@@ -1,5 +1,6 @@
 /* Skriv en klasse til at håndtere bankkonti */
 
+
 double balance = 1000;
 
 void main() {
